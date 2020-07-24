@@ -11,7 +11,7 @@
 
 1- 00_hello.rb
 
-  On a creer 2 methodes, 1 pour demander le nom et lui dire bonjour.
+<p>   On a creer <strong>2 methodes</strong>: 1 pour demander le nom et lui dire bonjour.</p>
   
 2- 01_pyramids.rb
   
