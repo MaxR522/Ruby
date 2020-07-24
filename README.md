@@ -1,5 +1,5 @@
 # Ruby
-## Groupe:
+## Groupe 1:
 
 - Mario
 - Mirindra
